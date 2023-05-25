@@ -5,7 +5,7 @@ An ask-me-anything chatbot using ChatGPT API that answers all your questions abo
 
 ### Import Reddit data
 
-The data contains top posts from 3 subreddits: Datascience, MachineLearning and artificial. Data is obtained with Python Reddit API Wrapper library.
+The data contains top posts from 3 subreddits: Datascience, MachineLearning and Artificial Intelligence. Data is obtained with Python Reddit API Wrapper library.
 [Documentation](https://github.com/bmar97/ChatBot/blob/main/subredditScraper.ipynb)
 
 - **3** subreddits
