@@ -38,7 +38,10 @@ Now lets take a look at the most common elements found in posts and comments ove
 ### Sentiment Analysis
 To gain a better understanding of our data let's utilize a process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic is positive, negative, or neutral. Our topics are "chatgpt" and the data's associated emotions [Documentation]([https://github.com/bmar97/ChatBot/blob/main/subredditScraper.ipynb](https://github.com/bmar97/ChatBot/blob/main/EDA.ipynb))
 
-![mypic](https://github.com/bmar97/ChatBot/blob/main/images/sentiment.EDA.png?raw=true)![mypic](https://github.com/bmar97/ChatBot/blob/main/images/emotion.EDA.png?raw=true)
+![mypic](https://github.com/bmar97/ChatBot/blob/main/images/sentiment.EDA.png?raw=true)
+
+#### Emotion Recognition
+![mypic](https://github.com/bmar97/ChatBot/blob/main/images/emotion.EDA.png?raw=true)
 
 The data scraped from Reddit surprisingly maintains a strong sentimentality of neutral across all detected emtions. Understanding this we can assume the statistical bias, when a model or statistic is unrepresentative of the population, heavily leans towards neutrality and not towards positive or negative responses.
 
