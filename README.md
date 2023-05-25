@@ -5,7 +5,7 @@ An ask-me-anything chatbot using ChatGPT API that answers all your questions abo
 
 ### Import Reddit data
 
-The context contains top posts from 3 subreddits: Datascience, Machine Learning and Artificial Intelligence. Data is obtained with Python Reddit API Wrapper library.
+The context contains top posts from 3 subreddits: Datascience, Machine Learning and Artificial Intelligence. Data is obtained with Python Reddit API Wrapper library
 [Documentation](https://github.com/bmar97/ChatBot/blob/main/subredditScraper.ipynb)
 
 - **3** subreddits
@@ -41,9 +41,10 @@ To gain a better understanding of our data let's utilize a process of computatio
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/sentiment.EDA.png?raw=true)
 
 #### Emotion Recognition
+Now we use a content - based classification problem involving concepts from the domains of Natural Language Processing as well as Machine Learning to determine the emotional sentiments of our data
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/emotion.EDA.png?raw=true)
 
-The data scraped from Reddit surprisingly maintains a strong sentimentality of neutral across all detected emtions. Understanding this we can assume the statistical bias, when a model or statistic is unrepresentative of the population, heavily leans towards neutrality and not towards positive or negative responses.
+The data scraped from Reddit surprisingly maintains a strong sentimentality of neutral across all detected emtions. Understanding this we can assume the statistical bias, when a model or statistic is unrepresentative of the population, heavily leans towards neutrality and not towards positive or negative responses
 
 ## A chat with chatBot, 20 questions & answers informed by Reddit
 
