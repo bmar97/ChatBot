@@ -42,9 +42,10 @@ To gain a better understanding of our data let's utilize a process of computatio
 
 #### Emotion Recognition
 Now we use a content - based classification problem involving concepts from the domains of Natural Language Processing as well as Machine Learning to determine the emotional sentiments of our data
+
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/emotion.EDA.png?raw=true)
 
-The data scraped from Reddit surprisingly maintains a strong sentimentality of neutral across all detected emtions. Understanding this we can assume the statistical bias, when a model or statistic is unrepresentative of the population, heavily leans towards neutrality and not towards positive or negative responses
+The data scraped from Reddit surprisingly maintains a strong sentimentality of neutral across all detected emotions. Understanding this we can assume the statistical bias, when a model or statistic is unrepresentative of the population, heavily leans towards neutrality and not towards positive or negative responses
 
 ## A chat with chatBot, 20 questions & answers informed by Reddit
 
