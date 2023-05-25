@@ -40,7 +40,7 @@ To gain a better understanding of our data let's utilize a process of computatio
 
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/sentiment.EDA.png?raw=true)![mypic](https://github.com/bmar97/ChatBot/blob/main/images/emotion.EDA.png?raw=true)
 
-### A chat with chatBot, 20 answers informed by Reddit
+## A chat with chatBot, 20 questions&answers informed by Reddit
 
 ##### Q1
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/chatBot%20Q%26A/q.01%3A%20chatbot.png?raw=true)
