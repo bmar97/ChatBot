@@ -36,7 +36,7 @@ Now lets take a look at the most common elements found in posts and comments ove
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/wc.total.png?raw=true)
 
 ### Sentiment Analysis
-To gain a better understanding of our data let's utilize a process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic is positive, negative, or neutral. Our topics are "chatgpt" and the data's associated emotions
+To gain a better understanding of our data let's utilize a process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic is positive, negative, or neutral. Our topics are "chatgpt" and the data's associated emotions [Documentation]([https://github.com/bmar97/ChatBot/blob/main/subredditScraper.ipynb](https://github.com/bmar97/ChatBot/blob/main/EDA.ipynb))
 
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/sentiment.EDA.png?raw=true)![mypic](https://github.com/bmar97/ChatBot/blob/main/images/emotion.EDA.png?raw=true)
 
