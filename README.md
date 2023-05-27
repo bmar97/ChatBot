@@ -72,7 +72,7 @@ The data scraped from Reddit surprisingly maintains a strong sentimentality of n
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/chatBot%20Q%26A/q.07%3A%20wealth.distr.png?raw=true)
 
 ##### Q8
-![mypic](https://github.com/bmar97/ChatBot/blob/main/chatBot%20Q%26A/q.08%3A%20wealth.equity.png?raw=true)
+![mypic](https://github.com/bmar97/ChatBot/blob/main/chatBot%20Q%26A/q.08%3A%20nlp.png?raw=true)
 
 ##### Q9
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/chatBot%20Q%26A/q.09%3A%20ethics.png?raw=true)
