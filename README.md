@@ -13,7 +13,7 @@ The context contains top posts from 3 subreddits: Datascience, Machine Learning 
 - **230811** comments
 
 ## EDA
-A looks at the data shows a significantly more even distriubtion of post topics since 2019
+A look at the data shows a significantly more even distriubtion of post topics since 2019
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/topic.EDA.png?raw=true)
 
 ### Wordcloud Visualizations 
