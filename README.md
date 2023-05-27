@@ -47,7 +47,7 @@ Now we use a content - based classification problem involving concepts from the 
 
 The data scraped from Reddit surprisingly maintains a strong sentimentality of neutral across all detected emotions. Understanding this we can assume the statistical bias, when a model or statistic is unrepresentative of the population, heavily leans towards neutrality and not towards positive or negative sentiments
 
-## A chat with chatBot, 20 questions & answers informed by Reddit
+## A chat with Chatbot, 20 questions & answers informed by Reddit
 ##### Most intriguing questions are at the end [Documentation](https://github.com/bmar97/ChatBot/blob/main/redditChatBot.ipynb)
 
 ##### Q1
