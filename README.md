@@ -5,7 +5,7 @@ An ask-me-anything chatbot using ChatGPT API that answers all your questions abo
 
 ### Import Reddit data
 
-The context contains top posts from 3 subreddits: Datascience, Machine Learning and Artificial Intelligence. Data is obtained with Python Reddit API Wrapper library
+We obtain our data by utlizing a Python Reddit API Wrapper library. The context contains top posts from 3 subreddits: Datascience, Machine Learning and Artificial Intelligence
 [Documentation](https://github.com/bmar97/ChatBot/blob/main/subredditScraper.ipynb)
 
 - **3** subreddits
@@ -13,11 +13,11 @@ The context contains top posts from 3 subreddits: Datascience, Machine Learning 
 - **230811** comments
 
 ## EDA
-A look at the data shows a significantly more even distriubtion of post topics since 2019
+A look at the data shows a significantly more even distriubtion of post topics after 2019
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/topic.EDA.png?raw=true)
 
 ### Wordcloud Visualizations 
-Now lets take a look at the most common elements found in posts and comments over the years
+Now lets take a look at the most common words and names found in posts/comments over the years
 
 #### 2014
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/wc.2014.png?raw=true)
@@ -36,7 +36,7 @@ Now lets take a look at the most common elements found in posts and comments ove
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/wc.total.png?raw=true)
 
 ### Sentiment Analysis
-To gain a better understanding of our data let's utilize a process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic is positive, negative, or neutral. Our topics are "chatgpt" and the data's associated emotions [Documentation]([https://github.com/bmar97/ChatBot/blob/main/subredditScraper.ipynb](https://github.com/bmar97/ChatBot/blob/main/EDA.ipynb))
+To gain a better understanding of our data let's utilize a process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic is positive, negative, or neutral. Our topics are "chatgpt" and the data's associated emotions [Documentation](https://github.com/bmar97/ChatBot/blob/main/EDA.ipynb)
 
 ![mypic](https://github.com/bmar97/ChatBot/blob/main/images/sentiment.EDA.png?raw=true)
 
